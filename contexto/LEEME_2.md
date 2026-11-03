@@ -8,6 +8,8 @@
 
 | Archivo | Qué tiene | Cuándo usarlo |
 |---|---|---|
+| `resumen-avatar-angulo-nombre.md` | **Vigente (03/11/2026).** Resumen de una página: avatar principal, ángulo de arranque y nombre recomendado | Para decidir rápido |
+| `avatar-angulos-y-nombre.md` | **Vigente (03/11/2026).** A quién le vende TWP (con medición de reseñas), mercado argentino, avatares, ángulos, comunicación, nombre de marca y plan de validación | Para textos, anuncios, diseños y nombre |
 | `propuesta-de-valor-replica-tiendanube.md` | **Vigente.** Propuesta de valor replicada de TWP, adicionales con proporciones de precio, mecánicas y cómo se arman en Tiendanube, adaptaciones legales, pendientes | Para definir la oferta y armar la tienda |
 | `plan-y-campos-tiendanube.md` | **Vigente.** Plan de Tiendanube elegido, comparativa de métodos para los campos del pedido (variantes, apps, script propio), costo mensual y preguntas para soporte | Para contratar el plan y armar el personalizador |
 | `relevamiento/propuesta-de-valor.md` | Relevamiento original de promesas, productos y ofertas de TWP y MBE | Consulta; donde contradiga al vigente, manda el vigente |
